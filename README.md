@@ -58,7 +58,6 @@ pip install -r requirements.txt
 
 * [S2ORC](https://allenai.org/data/s2orc)
 * [CORD-19](https://www.semanticscholar.org/cord19)
-* [SciREX Dataset](https://allenai.org/data/scirex)
 * [Wikidata](https://www.wikidata.org/)
 * [Semantic Scholar API](https://api.semanticscholar.org/)
 
