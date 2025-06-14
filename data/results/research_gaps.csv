@@ -1,0 +1,11 @@
+topic,coverage,impact_score,priority
+ethics,0.0,0.95,HIGH
+interpretability,0.0,0.9,HIGH
+robustness,0.0,0.9,HIGH
+multimodal,0.0,0.85,HIGH
+efficiency,0.0,0.8,HIGH
+uncertainty,0.0,0.8,HIGH
+few_shot,0.0,0.75,HIGH
+knowledge_graphs,0.0,0.7,MEDIUM
+reinforcement_learning,25.0,0.5625,MEDIUM
+federated_learning,25.0,0.5249999999999999,MEDIUM
