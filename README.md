@@ -68,7 +68,7 @@ pip install -r requirements.txt
 ### 1. Start the App
 
 ```bash
-streamlit run app/main.py
+streamlit run app/Deployement.py
 ```
 
 ###  Upload a Paper (PDF or Abstract Text)
